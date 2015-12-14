@@ -1,1 +1,1 @@
-Demo code from my Talk on Python User Group Nepal Meetup #8. The slide is available on http://talks.caktusgroup.com/lightning-talks/2012/django-template-debug/
+Demo code from my Talk on Python User Group Nepal Meetup #8. The slide is available on http://www.slideshare.net/s2krish/web-scraping-technologies

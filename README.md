@@ -1,1 +1,1 @@
-Demo code from my Talk on Python User Group Nepal Meetup #8. The slide is available on https://github.com/s2krish/dn-python-meetup-6
+Demo code from my Talk on Python User Group Nepal Meetup #8. The slide is available on http://talks.caktusgroup.com/lightning-talks/2012/django-template-debug/

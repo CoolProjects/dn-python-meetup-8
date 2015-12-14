@@ -1,0 +1,1 @@
+Demo code from my Talk on Python User Group Nepal Meetup #8. The slide is available on https://github.com/s2krish/dn-python-meetup-6
